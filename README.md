@@ -19,10 +19,12 @@ TBD
 Specs:
 
 * Blog made of static HTML files (generated via Jekyll, Octopress, etc.)
+* No comments
+* No CMS
 
-| Pageviews/day | RAM | Disk storage |
-|---------------:|-----|--------------|
-|1 | 512MB | 10GB |
-|1e3 | ? | ? |
-|1e6 | ? | ? |
-|1e9 | ? | ? |
+| Pageviews/day | RAM | Disk storage | Bandwidth | Needs dedicated hardware? |
+|---------------:|-----|--------------|----------|--------------|
+|1 | 1GB | 20GB | 1TB/month | No. |
+|1e3 | ? | ? | ? | No. |
+|1e6 | ? | ? | ? | No. |
+|1e9 | ? | ? | ? | No. |
