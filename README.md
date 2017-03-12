@@ -28,3 +28,10 @@ Specs:
 |1e3 | ? | ? | ? | No. |
 |1e6 | ? | ? | ? | No. |
 |1e9 | ? | ? | ? | No. |
+
+### VOIP Chat
+
+| Active Users | Protocol | RAM | Disk | Bandwidth | Needs dedicated hardware? |
+|--------------|----------|-----|------|-----------|---------------------------|
+| 20 | Mumble | 512mb | 20GB | 1TB/month | No | 
+
